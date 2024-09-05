@@ -1,0 +1,8 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.7.2"
+  name = "slack"
+  org = "test"
+  version = "0.1.0"
